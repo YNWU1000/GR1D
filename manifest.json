@@ -1,0 +1,17 @@
+{
+  "name": "GR1D",
+  "id": "1527511837795210940",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": [
+      "http://cdnjs.cloudflare.com",
+      "http://unpkg.com",
+      "http://fonts.googleapis.com",
+      "http://fonts.gstatic.com"
+    ]
+  }
+}
