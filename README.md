@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/cd683305-d8e4-4ff5-9daa-98f0279348a7)
 
-# GR1D
+[Use GR1D on Figma](https://www.figma.com/community/plugin/1527546676247672573/gr1d)
 
 GR1D was originally created in p5.js for a personal project where I needed to draw a series of grid-based graphics. Creating different grid sizes repeatedly soon became tedious, so I built this tool to streamline the process. Within iterations, it started to feel fun to play with. It is a simple grid-based drawing Figma Plugin that combines the precision of geometric constraints with the freedom of creative expression.
 
@@ -48,4 +48,4 @@ GR1D was originally created in p5.js for a personal project where I needed to dr
 - `1` - Circle brush
 - `2` - Square brush
 
-৻( •̀ ᗜ •́ ৻) ✧ I hope you enjoy it!
+৻( •̀ ᗜ •́ ৻) ✧ 
